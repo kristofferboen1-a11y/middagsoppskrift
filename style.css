@@ -1,4 +1,18 @@
-.spekeskinke {
+ .spekeskinke {
     color: red
 
+} 
+ 
+.hvetemel {
+
+    color: red;
+} 
+
+h1 {
+ text-align: center;
+ color: blue;
+}
+
+.end {
+    text-align: end;
 }
